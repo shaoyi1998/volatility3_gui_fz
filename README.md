@@ -1,6 +1,7 @@
 # volatility3_gui_fz
 volatility3 gui by kivymd 
 A visualization platform developed in my spare time, currently only has three functions: process, file and registry
+Changing the language requires a restart!!!
 
 ![image](https://github.com/user-attachments/assets/4dcaeb2d-6a6e-4b36-b86f-2aff099bfd16)
 
